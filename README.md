@@ -63,7 +63,7 @@ Each row represents a sample in the column order: generation, sample id and trea
 
 ### Gene annotations
 
-The pipeline expects three gene annotations files (1) CpG-islands positions (`data/cpgislands_GRCm39.bed`), (2) curated reference sequencing database (`data/refseq_UCSC_GRCm39.bed`) and ensembl gene annotations (`data/ensembl-dataset.csv.gz`).
+The pipeline expects two gene annotations files (1) CpG-islands positions (`data/cpgislands_GRCm39.bed`) and (2) curated reference sequencing database (`data/refseq_UCSC_GRCm39.bed`).
 
 >These files are included in the repo
 
