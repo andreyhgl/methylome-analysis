@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
 /*
- *Github: https://github.com/flerpan01/methylome_analysis
+ * Github: https://github.com/andreyhgl/methylome-analysis
  */
 
 // ~~ Import processes ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
