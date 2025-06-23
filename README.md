@@ -91,8 +91,8 @@ For reproducibility this pipeline uses two singularity containers, which can be 
 ```sh
 # apptainer (instead of singulartiy) also works
 
-IMAGE1='library://flerpan01/singularity-r/bulk-rrbs:1.1'
-IMAGE2='library://flerpan01/singularity-r/gene-ontology:1.0'
+IMAGE1='library://andreyhgl/singularity-r/methylome:latest'
+IMAGE2='library://andreyhgl/singularity-r/gene-ontology:latest'
 
 singularity pull ${IMAGE1}
 singularity pull ${IMAGE2}
